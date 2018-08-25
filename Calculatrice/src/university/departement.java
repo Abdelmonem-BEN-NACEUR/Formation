@@ -1,5 +1,5 @@
 package university;
 
-public class departement {
+public class departement  {
 
 }
